@@ -1,0 +1,6 @@
+# Security
+.env
+*.key
+.idea/
+__pycache__/
+*.pyc

@@ -1,0 +1,17 @@
+[
+  {
+    "latency_ms": 0.58016700000735,
+    "cpu_memory_gb": 6.14400000000237e-05,
+    "cpu_percent": 0.0,
+    "batch": 8,
+    "input": 256,
+    "rules": 16,
+    "output": 128,
+    "memory_gb": 0,
+    "backend": "manual_fusion",
+    "device": "cpu",
+    "throughput_qps": 13789.133128734744,
+    "status": "success",
+    "optimization_gain": 0.0
+  }
+]
